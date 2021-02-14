@@ -1,0 +1,6 @@
+nvic.c:26:6:NVIC_enableIRQ	16	static
+nvic.c:45:6:NVIC_disableIRQ	16	static
+nvic.c:63:6:NVIC_SetPendingIRQ	16	static
+nvic.c:82:6:NVIC_clearPendingIRQ	16	static
+nvic.c:101:7:NVIC_getPendingIRQ	16	static
+nvic.c:123:6:NVIC_setPriority	16	static

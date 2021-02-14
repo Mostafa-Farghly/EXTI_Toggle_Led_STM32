@@ -1,0 +1,14 @@
+rcc.c:33:6:RCC_AHB1_enableClock	16	static
+rcc.c:52:6:RCC_AHB2_enableClock	16	static
+rcc.c:71:6:RCC_AHB3_enableClock	16	static
+rcc.c:90:6:RCC_APB1_enableClock	16	static
+rcc.c:109:6:RCC_APB2_enableClock	16	static
+rcc.c:128:6:RCC_AHB1_disableClock	16	static
+rcc.c:147:6:RCC_AHB2_disableClock	16	static
+rcc.c:166:6:RCC_AHB3_disableClock	16	static
+rcc.c:185:6:RCC_APB1_disableClock	16	static
+rcc.c:204:6:RCC_APB2_disableClock	16	static
+rcc.c:225:6:RCC_setCLockStatus	16	static
+rcc.c:259:7:RCC_getClockStatus	16	static
+rcc.c:285:7:RCC_getCLockSource	4	static
+rcc.c:308:7:RCC_setCLockSource	16	static

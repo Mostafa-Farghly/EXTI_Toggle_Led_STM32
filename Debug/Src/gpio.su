@@ -1,0 +1,5 @@
+gpio.c:38:6:GPIO_pinInit	24	static
+gpio.c:102:6:GPIO_setPinValue	16	static
+gpio.c:118:6:GPIO_setPortValue	16	static
+gpio.c:135:7:GPIO_readPinValue	16	static
+gpio.c:151:6:GPIO_togglePinValue	16	static

@@ -1,0 +1,16 @@
+exti.c:37:6:EXTI_interruptInit	16	static
+exti.c:72:6:EXTI_clearPendingFlag	16	static
+exti.c:87:6:EXTI_interruptEnable	16	static
+exti.c:102:6:EXTI_interruptDisable	16	static
+exti.c:113:6:EXTI0_IRQHandler	8	static
+exti.c:124:6:EXTI1_IRQHandler	8	static
+exti.c:135:6:EXTI2_IRQHandler	8	static
+exti.c:146:6:EXTI3_IRQHandler	8	static
+exti.c:157:6:EXTI4_IRQHandler	8	static
+exti.c:168:6:EXTI9_5_IRQHandler	16	static
+exti.c:187:6:EXTI15_10_IRQHandler	16	static
+exti.c:206:6:PVD_IRQHandler	8	static
+exti.c:217:6:RTC_Alarm_IRQHandler	8	static
+exti.c:228:6:OTG_FS_WKUP_IRQHandler	8	static
+exti.c:239:6:TAMP_STAMP_IRQHandler	8	static
+exti.c:250:6:RTC_WKUP_IRQHandler	8	static
